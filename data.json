@@ -1,0 +1,165 @@
+{
+    "data": [
+        {
+            "type": "Receita",
+            "value": 3030.0,
+            "created_date": "1983-12-15",
+            "modified_date": "1983-12-15",
+            "id": 1
+        },
+        {
+            "type": "Investimento",
+            "value": 3030.0,
+            "created_date": "1992-12-22",
+            "modified_date": "1992-12-22",
+            "id": 2
+        },
+        {
+            "type": "Investimento",
+            "value": 222222.0,
+            "created_date": "1997-01-31",
+            "modified_date": "1997-01-31",
+            "id": 3
+        },
+        {
+            "type": "Despesa",
+            "value": -150.0,
+            "created_at": "2023-03-15",
+            "modified_at": "2023-03-16",
+            "id": 4
+        },
+        {
+            "type": "Receita",
+            "value": 300.0,
+            "created_at": "2023-03-16",
+            "modified_at": "2023-03-17",
+            "id": 5
+        },
+        {
+            "type": "Investimento",
+            "value": 200.0,
+            "created_at": "2023-03-17",
+            "modified_at": "2023-03-18",
+            "id": 6
+        },
+        {
+            "type": "Despesa",
+            "value": -120.0,
+            "created_at": "2023-03-18",
+            "modified_at": "2023-03-19",
+            "id": 7
+        },
+        {
+            "type": "Receita",
+            "value": 350.0,
+            "created_at": "2023-03-19",
+            "modified_at": "2023-03-20",
+            "id": 8
+        },
+        {
+            "type": "Investimento",
+            "value": 500.0,
+            "created_at": "2023-03-20",
+            "modified_at": "2023-03-21",
+            "id": 9
+        },
+        {
+            "type": "Despesa",
+            "value": -75.0,
+            "created_at": "2023-03-21",
+            "modified_at": "2023-03-22",
+            "id": 10
+        },
+        {
+            "type": "Receita",
+            "value": 280.0,
+            "created_at": "2023-03-22",
+            "modified_at": "2023-03-23",
+            "id": 11
+        },
+        {
+            "type": "Investimento",
+            "value": 400.0,
+            "created_at": "2023-03-23",
+            "modified_at": "2023-03-24",
+            "id": 12
+        },
+        {
+            "type": "Despesa",
+            "value": -90.0,
+            "created_at": "2023-03-24",
+            "modified_at": "2023-03-25",
+            "id": 13
+        },
+        {
+            "type": "Receita",
+            "value": 450.0,
+            "created_at": "2023-03-25",
+            "modified_at": "2023-03-26",
+            "id": 14
+        },
+        {
+            "type": "Investimento",
+            "value": 250.0,
+            "created_at": "2023-03-26",
+            "modified_at": "2023-03-27",
+            "id": 15
+        },
+        {
+            "type": "Despesa",
+            "value": -135.0,
+            "created_at": "2023-03-27",
+            "modified_at": "2023-03-28",
+            "id": 16
+        },
+        {
+            "type": "Receita",
+            "value": 320.0,
+            "created_at": "2023-03-28",
+            "modified_at": "2023-03-29",
+            "id": 17
+        },
+        {
+            "type": "Investimento",
+            "value": 600.0,
+            "created_at": "2023-03-29",
+            "modified_at": "2023-03-30",
+            "id": 18
+        },
+        {
+            "type": "Despesa",
+            "value": -80.0,
+            "created_at": "2023-03-30",
+            "modified_at": "2023-03-31",
+            "id": 19
+        },
+        {
+            "type": "Receita",
+            "value": 410.0,
+            "created_at": "2023-03-31",
+            "modified_at": "2023-04-01",
+            "id": 20
+        },
+        {
+            "type": "Investimento",
+            "value": 350.0,
+            "created_at": "2023-04-01",
+            "modified_at": "2023-04-02",
+            "id": 21
+        },
+        {
+            "type": "Despesa",
+            "value": -160.0,
+            "created_at": "2023-04-02",
+            "modified_at": "2023-04-03",
+            "id": 22
+        },
+        {
+            "type": "Receita",
+            "value": 365.0,
+            "created_at": "2023-04-03",
+            "modified_at": "2023-04-04",
+            "id": 23
+        }
+    ]
+}
